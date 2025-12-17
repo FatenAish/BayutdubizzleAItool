@@ -1,0 +1,13 @@
+streamlit
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-core
+faiss-cpu
+sentence-transformers
+transformers
+openai
+pydantic
+pydantic-settings
+python-dotenv
+requests
